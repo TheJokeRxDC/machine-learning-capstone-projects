@@ -4,3 +4,4 @@
 
 ## Table of contents
 1. Logistic Regression  :white_check_mark:
+2. Decision Trees and Random Forest  :white_check_mark:
