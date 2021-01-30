@@ -7,3 +7,4 @@
 2. Decision Trees and Random Forest  :white_check_mark:
 3. K Means Clustering  :white_check_mark:
 4. K Nearest Neighbors  :white_check_mark:
+5. Natural Language Processing - Yelp Reviews :white_check_mark:
