@@ -8,3 +8,4 @@
 3. K Means Clustering  :white_check_mark:
 4. K Nearest Neighbors  :white_check_mark:
 5. Natural Language Processing - Yelp Reviews :white_check_mark:
+6. Recommender Systems (Basic) :white_check_mark:
